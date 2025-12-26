@@ -6,18 +6,16 @@ def solve():
         d = abs(a - b)
         n = 2 * d
         
-        # Check validity
+      
         if n == 0 or max(a, b, c) > n:
             print(-1)
             continue
         
         half = n // 2
-        
-        # Find opposite of c
+    
         if c + half <= n:
             print(c + half)
         else:
             print(c - half)
 
-# Run
 solve()
