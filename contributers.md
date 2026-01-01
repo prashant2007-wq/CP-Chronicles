@@ -81,5 +81,6 @@
 | Chithra R | Chithra582 | CIT |
 | Ayush Kumar Singh | ayush2005k | VIT Bhopal
 | YOGESH M | yogesh4216 | CIT Chennai |
+| Krishna Sikheriya | Krishna200608 | IIIT Allahabad |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
