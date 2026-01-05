@@ -86,5 +86,6 @@
 | Gayatri Duse | Gayatrii4506 | KKWIEER |
 | Anshdeep Singh | Anshdeep-Singh-9 | IIIT Allahabad |
 | Prashant S Bisht | prashant2007-wq | Rishihood University |
+| Debojyoti Chakrabarti | debo5000 | IIIT Allahabad |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
