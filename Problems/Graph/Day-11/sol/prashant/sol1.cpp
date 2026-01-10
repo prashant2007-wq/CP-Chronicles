@@ -10,6 +10,18 @@
 //                             praxxnnt06
 //                       "Think. Code. Conquer."
 // ----------------------------------------------------------------------
+// AVAILABLE FUNCTIONS AND TIME COMPLEXITIES:
+// - nCr(n, r): Combination calculator                    | O(r)
+// - sieve(n): Sieve of Eratosthenes (prime finder)       | O(n log log n)
+// - rf(n): Factors in a range                            | O(√n)
+// - primeFactor(n): Prime factorization of n             | O(√n * log n)
+// - gcd(a, b): Greatest Common Divisor                   | O(log(min(a, b)))
+// - factorial(n): Modular factorial                      | O(n)
+// - MEX(arr): Minimum Excluded Value                     | O(n log n)
+// - ps(arr): Prefix Sum                                   | O(n)
+// - inp: Input function for array                        | O(n)
+// - print: Output function for array                     | O(n)
+// ----------------------------------------------------------------------
 #include <iostream>
 #include <vector>
 #include <algorithm>
